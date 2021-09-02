@@ -1,14 +1,17 @@
 {
-  "name": "@sushiswap/sdk",
+  "name": "@luckyfinance/sdk",
   "license": "MIT",
-  "version": "5.0.0-canary.7",
-  "description": "🛠 An SDK for building applications on top of Sushiswap.",
+  "version": "3.2.0",
+  "description": "🛠 An SDK for building applications on top of Luckyswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/sushiswap/sushiswap-sdk",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckyDogeDev/luckyswap-sdk.git"
+  },
   "keywords": [
     "uniswap",
     "sushiswap",
@@ -56,5 +59,13 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/LuckyDogeDev/luckyswap-sdk/issues"
+  },
+  "homepage": "https://github.com/LuckyDogeDev/luckyswap-sdk#readme",
+  "directories": {
+    "test": "test"
+  },
+  "author": "LuckyDogeDev"
 }

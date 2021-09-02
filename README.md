@@ -1,8 +1,8 @@
-# Sushiswap SDK
+# Luckyswap SDK
 
 In-depth documentation on this SDK is available at [uniswap.org](https://uniswap.org/docs/v2/SDK/getting-started/).
 
-This modifies uniswap-sdk's UniswapV2Factory address. The new address for sushiswap is  `0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac`.
+This modifies uniswap-sdk's UniswapV2Factory address. The new address for sushiswap is  `0x12a7FD816401d75F4a76915d3a9a9E4AF0EcBb0D`.
 
 ## Running tests
 
