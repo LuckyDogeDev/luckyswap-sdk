@@ -1,17 +1,14 @@
 {
   "name": "@luckyfinance/sdk",
   "license": "MIT",
-  "version": "3.2.3",
+  "version": "3.3.3",
   "description": "🛠 An SDK for building applications on top of Luckyswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LuckyDogeDev/luckyswap-sdk.git"
-  },
+  "repository": "git+https://github.com/LuckyDogeDev/luckyswap-sdk.git",
   "keywords": [
     "uniswap",
     "sushiswap",
@@ -68,5 +65,6 @@
   "directories": {
     "test": "test"
   },
-  "author": "LuckyDogeDev"
+  "author": "LuckyDogeDev",
+  "private": false
 }
