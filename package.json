@@ -1,7 +1,7 @@
 {
   "name": "@luckyfinance/sdk",
   "license": "MIT",
-  "version": "3.3.5",
+  "version": "3.4.0",
   "description": "🛠 An SDK for building applications on top of Luckyswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
