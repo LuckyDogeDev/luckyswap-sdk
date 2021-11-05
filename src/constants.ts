@@ -91,6 +91,31 @@ export const ROUTER_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.OKEX_TESTNET]: '0xdbAdD81e0c5e96E5D50844ACcCa8c412B29e8407'
 }
 
+export const LDOGE_ADDRESS: { [chainId in ChainId]: string } = {
+  [ChainId.MAINNET]: '0xf1a949cb4b08a96ddbaec9ffa4125b681a51be18',
+  [ChainId.ROPSTEN]: '',
+  [ChainId.RINKEBY]: '',
+  [ChainId.GÖRLI]: '',
+  [ChainId.KOVAN]: '',
+  [ChainId.FANTOM]: '',
+  [ChainId.FANTOM_TESTNET]: '',
+  [ChainId.MATIC]: '',
+  [ChainId.MATIC_TESTNET]: '',
+  [ChainId.XDAI]: '',
+  [ChainId.BSC]: '0xf1a949cb4b08a96ddbaec9ffa4125b681a51be18',
+  [ChainId.BSC_TESTNET]: '',
+  [ChainId.ARBITRUM]: '',
+  [ChainId.MOONBASE]: '',
+  [ChainId.AVALANCHE]: '',
+  [ChainId.FUJI]: '',
+  [ChainId.HECO]: '',
+  [ChainId.HECO_TESTNET]: '',
+  [ChainId.HARMONY]: '',
+  [ChainId.HARMONY_TESTNET]: '',
+  [ChainId.OKEX]: '',
+  [ChainId.OKEX_TESTNET]: ''
+}
+
 export const GOLN_ADDRESS: { [chainId in ChainId]: string } = {
   [ChainId.MAINNET]: '0xd0fb6753E4A2dFfA6033836327e23Ec2e417446E',
   [ChainId.ROPSTEN]: '0xa04bdc3A75346dd0C0CC932F868A3a49E9fBd1DB',
